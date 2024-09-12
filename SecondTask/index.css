@@ -497,6 +497,18 @@ nav {
     top: 4px;
     left: -10px;
   }
+  .fa-bag-shopping{
+    color: #5a3502;
+  }
+  .fa-money-check-dollar{
+    color: #31db0f;
+  }
+  .fa-earth-oceania {
+    color: #f1d11a;
+  }
+  .fa-earth-oceania.oceania{
+    color: #1c29e0;
+  }
   .orange_items{
     color:  #de7a1b;;
     position: relative;
@@ -626,6 +638,7 @@ footer {
     display: flex;
     justify-content:space-around;
     align-items: center;
+    padding: 30px 0px;
 }
 .footer_2 ul{
     list-style: none;
